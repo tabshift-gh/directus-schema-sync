@@ -1,11 +1,11 @@
 {
-	"name": "directus-extension-schema-sync",
+	"name": "@tabshift/directus-schema-sync",
 	"description": "Sync schema and data betwreen Directus instances",
 	"icon": "sync_alt",
 	"version": "3.0.8",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/bcc-code/directus-schema-sync.git"
+		"url": "https://github.com/tabshift-gh/directus-schema-sync.git"
 	},
 	"keywords": [
 		"directus",
